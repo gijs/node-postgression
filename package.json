@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Zaidos/node-postgression.git"
+    "url": "https://github.com/postgression/node-postgression.git"
   },
   "keywords": [
     "heroku",
