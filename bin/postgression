@@ -1,0 +1,9 @@
+#!/usr/bin/env node
+
+var postgression = require('../lib/postgression');
+
+(function() {
+  postgression.provision(function(db) {
+    console.log(db);
+  });
+})();
