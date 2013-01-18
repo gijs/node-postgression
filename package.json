@@ -1,5 +1,5 @@
 {
-  "name": "node-postgression",
+  "name": "postgression",
   "version": "0.0.1",
   "description": "A node client for the postgression API.",
   "main": "index",
@@ -22,5 +22,5 @@
   "author": "Alven Diaz",
   "license": "UNLICENSED",
   "readmeFilename": "README.md",
-  "gitHead": "eb58a55f9a5820cf7b6ee647a232ef0381e25a72"
+  "bin": { "postgression": "./bin/postgression" }
 }
